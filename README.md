@@ -30,7 +30,7 @@ The cyan loss is a custom latent space modification technique that enhances imag
 #### 🏛️ Solomon Temple Style
 | Without Cyan Loss (Seed: 888) | With Cyan Loss (Seed: 888) |
 |------------------------------|---------------------------|
-| [Image will be added] | [Image will be added] |
+|![alt text](image-10.png) | ![alt text](image-11.png) |
 
 ## Technical Implementation
 
