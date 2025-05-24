@@ -1,0 +1,9 @@
+# Requirements for Stable Diffusion Image Generator
+torch>=2.0.0
+diffusers>=0.25.0
+transformers>=4.30.0
+gradio>=4.0.0
+accelerate>=0.25.0
+safetensors>=0.4.0
+huggingface_hub>=0.20.0
+numpy>=1.24.0
